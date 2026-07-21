@@ -1,0 +1,12 @@
+pandas
+pytest
+
+
+
+
+#python.exe -m pip install --upgrade pip
+#pip install -r requirements.txt
+#python src/etl_load_sqlite.py
+#python src/kpi_city.py
+#pytest -q
+
